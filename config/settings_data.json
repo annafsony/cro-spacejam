@@ -34,7 +34,7 @@
     "underline_links": true,
     "animation_image_zoom": true,
     "search_mode": "product,article",
-    "show_vendor": true,
+    "show_vendor": false,
     "show_secondary_image": true,
     "show_reviews_badge": false,
     "show_discount": true,
