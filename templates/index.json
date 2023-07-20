@@ -190,6 +190,7 @@
     },
     "featured-collection": {
       "type": "featured-collection",
+      "disabled": true,
       "settings": {
         "collection": "spacejam",
         "title": "CRO SPACEJAM",
@@ -286,7 +287,6 @@
         "collection": "spacejam",
         "products_count": 12,
         "show_quick_buy": true,
-        "image": "shopify:\/\/shop_images\/SpaceJam-chrome-2.png",
         "background": "rgba(0,0,0,0)",
         "text_color": "#ffffff",
         "title": "",
