@@ -109,7 +109,7 @@
           "41da7530-7f1e-4cc8-b331-50f3bcf6fa07"
         ],
         "settings": {
-          "enable_sticky_header": true,
+          "enable_sticky_header": false,
           "logo": "shopify:\/\/shop_images\/SpaceJam-chrome-1.png",
           "logo_max_width": 250,
           "mobile_logo_max_width": 50,
