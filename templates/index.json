@@ -279,6 +279,23 @@
         "background": "#ffffff",
         "text": "#666666"
       }
+    },
+    "fa7faf18-8581-4075-a2c7-f1b4a73e6a01": {
+      "type": "collection-with-image",
+      "settings": {
+        "collection": "spacejam",
+        "products_count": 12,
+        "show_quick_buy": true,
+        "image": "shopify:\/\/shop_images\/SpaceJam-chrome-2.png",
+        "background": "rgba(0,0,0,0)",
+        "text_color": "#ffffff",
+        "title": "",
+        "content": "",
+        "button_background": "#ffffff",
+        "button_text_color": "#0774d7",
+        "button_text": "",
+        "button_link": ""
+      }
     }
   },
   "order": [
@@ -287,6 +304,7 @@
     "featured-collection",
     "featured-products",
     "collection-list",
-    "newsletter"
+    "newsletter",
+    "fa7faf18-8581-4075-a2c7-f1b4a73e6a01"
   ]
 }
