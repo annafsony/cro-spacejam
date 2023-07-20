@@ -190,7 +190,6 @@
     },
     "featured-collection": {
       "type": "featured-collection",
-      "disabled": true,
       "settings": {
         "collection": "spacejam",
         "title": "CRO SPACEJAM",
@@ -283,6 +282,7 @@
     },
     "fa7faf18-8581-4075-a2c7-f1b4a73e6a01": {
       "type": "collection-with-image",
+      "disabled": true,
       "settings": {
         "collection": "spacejam",
         "products_count": 12,
