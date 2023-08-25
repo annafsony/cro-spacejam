@@ -402,7 +402,7 @@
       "inventory": "Lagerbestand",
       "quantity": "Menge",
       "in_stock": "Auf Lager",
-      "oversell_stock": "Vorbestellen \/ Verfügbar ab 25.08.",
+      "oversell_stock": "Verfügbar",
       "incoming_stock": "Ab dem {{ next_incoming_date }} wieder auf Lager",
       "low_stock_with_quantity_count": {
         "one": "Nur noch {{count}} verfügbar",
